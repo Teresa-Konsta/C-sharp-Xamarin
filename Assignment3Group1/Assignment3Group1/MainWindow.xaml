@@ -1,0 +1,69 @@
+﻿<Window x:Class="Assignment3Group1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment3Group1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="139*"/>
+            <ColumnDefinition Width="85*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="Fruit" Background="Gray"  HorizontalAlignment="Left" Height="219" VerticalAlignment="Top" Width="242" MinRowHeight="1" Grid.Column="1" Margin="296,0,0,0" Grid.ColumnSpan="2" IsReadOnly="True">
+            <DataGrid.BindingGroup>
+                <BindingGroup/>
+            </DataGrid.BindingGroup>
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="ID1" Header="ID" Binding="{Binding Path=FruitID}" Width="50"/>
+                <DataGridTextColumn x:Name="Name1" Header="Name" Binding="{Binding Path=Name}" Width="100"></DataGridTextColumn>
+                <DataGridTextColumn x:Name="Color1" Header="Color" Width="100" Binding="{Binding Path=Color}">
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Row_DoubleClick"></EventSetter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <DataGrid x:Name="Planet" Background="LightGray" HorizontalAlignment="Left" Height="219" VerticalAlignment="Top" Width="286" Margin="5,0,0,0" Grid.ColumnSpan="2" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="ID" Header="ID" Binding="{Binding Path=PlanetID}" Width="50"/>
+                <DataGridTextColumn x:Name="Name" Header="Name" Binding="{Binding Path=Name}" Width="115"/>
+                <DataGridTextColumn x:Name="Color" Header="Color" Binding="{Binding Path=Color}" Width="115"/>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Row_DoubleClick"></EventSetter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <ComboBox x:Name="cmbPlanet" Grid.Column="1" HorizontalAlignment="Left" Margin="117,265,0,0" VerticalAlignment="Top" Width="150" Loaded="cmbPlanet_Loaded" SelectionChanged="cmbPlanet_SelectionChanged" Height="22"/>
+        <ComboBox x:Name="cmbFruit" Grid.Column="1" HorizontalAlignment="Left" Margin="117,331,0,0" VerticalAlignment="Top" Width="150" Loaded="cmbFruit_Loaded" SelectionChanged="cmbFruit_SelectionChanged" Height="22"/>
+        <Button x:Name="btnClear" Content="Clear" Grid.Column="1" HorizontalAlignment="Left" Margin="333,254,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="btnClear_Click"/>
+        <Button x:Name="btnDelete" Content="Delete" Grid.Column="1" HorizontalAlignment="Left" Margin="333,331,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="btnDelete_Click"/>
+        <Label Content="Planet
+               " Grid.Column="1" HorizontalAlignment="Left" Margin="32,261,0,0" VerticalAlignment="Top" Width="59" Height="26"/>
+        <Label Content="Fruit" Grid.Column="1" HorizontalAlignment="Left" Margin="32,327,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.234,0.579" Height="26" Width="34"/>
+        <DataGrid x:Name="Sellected" Background="LightGray" Grid.Column="2" HorizontalAlignment="Left" Height="219" Margin="45.2,0,-0.4,0" VerticalAlignment="Top" Width="256">
+            <DataGrid.Columns>
+                <DataGridTextColumn  Width="150" Header="Name" Binding="{Binding Path=Name}"></DataGridTextColumn>
+                <DataGridTextColumn  Width="150" Header="Color" Binding="{Binding Path=Color}"></DataGridTextColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnLINQProjectQS" Content="LINQ Project QS" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Grid.Column="2" Margin="68.2,254,0,0" Height="25" Click="btnLINQProjectQS_Click"/>
+        <Button x:Name="btnLINQFilterQS" Content="LINQ Filter QS" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Grid.Column="2" Margin="68.2,293,0,0" Height="25" Click="btnLINQFilterQS_Click"/>
+        <Button x:Name="btnLINQOrderAscendingQS" Content="LINQ Order Ascending QS" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Grid.Column="2" Margin="68.2,335,0,0" Height="25" Click="btnLINQOrderAscendingQS_Click"/>
+        <Button x:Name="btnLINQInnerJoinQS" Content="LINQ Inner Join QS" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Grid.Column="2" Margin="68.2,376,0,0" Height="25" Click="btnLINQInnerJoinQS_Click"/>
+    </Grid>
+
+    <!--<entityFramework>
+        <providers>
+            <provider invariantName="My.Invariant.Name" type="MyProvider.MyProviderServices, MyAssembly" />
+        </providers>
+    </entityFramework>-->
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Assignment4Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment4Question2"
+        mc:Ignorable="d"
+        Title="Words" Height="450" Width="800" BorderThickness="3" BorderBrush="CadetBlue">
+    <Grid Background="AliceBlue">
+        <TextBox x:Name="txtEntry" Background="Cornsilk" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Height="35" Margin="53,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" TextChanged="txtEntry_TextChanged"/>
+        <Label x:Name="lblEnter" Content="Enter words:" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="53,43,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.508,0.562" Width="202"/>
+        <Button x:Name="btnStart" Content="GO" Background="MediumAquamarine" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="18" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="53,146,0,0" VerticalAlignment="Top" Width="127" Height="35" Click="btnStart_Click"/>
+        <TextBox x:Name="txtExit" Background="Cornsilk" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="53,253,0,0" VerticalAlignment="Top" Height="38" Width="300" TextChanged="txtExit_TextChanged"/>
+        <Label x:Name="lblResult" Content="Number of words entered:" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="53,216,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.508,0.562" Width="202"/>
+        <Button x:Name="btnClear" Content="Clear" Background="Bisque" BorderThickness="3" BorderBrush="Coral" TextElement.FontSize="18" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="338,356,0,0" VerticalAlignment="Top" Width="127" Height="35" Click="btnClear_Click"/>
+        <Label x:Name="lblEnterNum" Content="Enter a number:" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="444,43,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.508,0.562" Width="202"/>
+        <TextBox x:Name="txtEntryNum" Background="Cornsilk" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Height="35" Margin="444,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" TextChanged="txtEntryNum_TextChanged"/>
+        <Button x:Name="btnStartNum" Content="GO" Background="MediumAquamarine" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="18" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="444,146,0,0" VerticalAlignment="Top" Width="127" Height="35" Click="btnStartNum_Click"/>
+        <Label x:Name="lblResultSentence" Content="Sentence:" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="444,216,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.508,0.562" Width="202"/>
+        <TextBox x:Name="txtExitSentence" Background="Cornsilk" BorderThickness="3" BorderBrush="CadetBlue" TextElement.FontSize="16" TextElement.FontFamily="Comic Sans MS" HorizontalAlignment="Left" Margin="444,253,0,0" VerticalAlignment="Top" Height="38" Width="300" TextChanged="txtExitSentence_TextChanged"/>
+    </Grid>
+</Window>

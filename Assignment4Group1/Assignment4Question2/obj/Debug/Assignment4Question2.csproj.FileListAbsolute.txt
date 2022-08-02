@@ -1,0 +1,15 @@
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\bin\Debug\Assignment4Question2.exe.config
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\bin\Debug\Assignment4Question2.exe
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\bin\Debug\Assignment4Question2.pdb
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.csprojAssemblyReference.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\MainWindow.g.cs
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\App.g.cs
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2_MarkupCompile.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2_MarkupCompile.lref
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\MainWindow.baml
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.g.resources
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.Properties.Resources.resources
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.csproj.GenerateResource.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.exe
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass4\Assignment4Group1\Assignment4Question2\obj\Debug\Assignment4Question2.pdb

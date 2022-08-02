@@ -1,0 +1,39 @@
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.exe.config
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.exe
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.pdb
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csprojAssemblyReference.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\MainWindow.g.cs
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\App.g.cs
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1_MarkupCompile.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1_MarkupCompile.lref
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\MainWindow.baml
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.g.resources
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.Properties.Resources.resources
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csproj.GenerateResource.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.exe
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.pdb
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.dll
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.xml
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Centennial\semester 4\Programming 3 - COMP 212 - 002\assignments\ass3\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csproj.CopyComplete
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.exe.config
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.exe
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\Assignment3Group1.pdb
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.dll
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.xml
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csprojAssemblyReference.cache
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\MainWindow.g.cs
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\App.g.cs
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1_MarkupCompile.cache
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1_MarkupCompile.lref
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\MainWindow.baml
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.g.resources
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.Properties.Resources.resources
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csproj.GenerateResource.cache
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.csproj.CopyComplete
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.exe
+C:\Users\aricm\Downloads\Assignment3Group1\Assignment3Group1\obj\Debug\Assignment3Group1.pdb
