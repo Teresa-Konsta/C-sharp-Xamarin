@@ -1,2 +1,5 @@
-# C-sharp-Xamarin
-These are school team projects
+# C-sharp-Xamarin Centennial College team projects.
+# Group Members: 
+Andrii Kosenko,
+Mucahit Aric,
+Tereza Konstari
